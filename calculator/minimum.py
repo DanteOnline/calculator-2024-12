@@ -1,3 +1,3 @@
 def minimum(a, b):
-    ""function for minimum"""
+    """function for minimum"""
     return min(a, b)
